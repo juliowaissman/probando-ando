@@ -1,4 +1,8 @@
-
+---
+title: El archivo nuevo
+subtitle: El subtitulo
+author: Pepito
+---
 
 # Titulo 1
 
