@@ -20,6 +20,8 @@ Listas numeradas
 
 Yo puedo escribir *en itálicas* o **en negritas** y hasta ecuaciones
 
+Vamos a ver [otro archivito](otro.html) o [así](otro.md).
+
 
 
 ![logo](https://mcd.unison.mx/wp-content/themes/awaken/img/logo_mcd.png)
